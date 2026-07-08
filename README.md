@@ -51,22 +51,19 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=vit-cerny&show_icons=true&hide_border=true&bg_color=E3F2FD&title_color=1E88E5&text_color=333333&icon_color=43A047&ring_color=29B6F6&cache_seconds=86400" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://streak-stats.demolab.com/?user=vit-cerny&hide_border=true&background=E3F2FD&stroke=1E88E5&ring=29B6F6&fire=66BB6A&currStreakLabel=1E88E5&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=777777" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+<!-- Self-hosted via GitHub Actions (see metrics.yml) — not dependent on any shared public server -->
+<div align="center">
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
 
-## 💻 Top Languages
+<details>
+<summary>Streak counter (optional, third-party)</summary>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vit-cerny&layout=compact&hide_border=true&bg_color=E3F2FD&title_color=1E88E5&text_color=333333&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vit-cerny&hide_border=true&background=E3F2FD&stroke=1E88E5&ring=29B6F6&fire=66BB6A&currStreakLabel=1E88E5&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=777777" alt="GitHub Streak" />
 </div>
+
+</details>
 
 ## 🏆 Trophies
 
