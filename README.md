@@ -84,6 +84,10 @@
 <a href="https://cerny-vit.space">
 <img src="https://img.shields.io/badge/🌐_Visit_my_site-29B6F6?style=plastic&logoColor=white" />
 </a>
+<!-- Replace the href below with your deployed workers.dev URL -->
+<a href="https://vit-cerny-chatbot.YOUR-SUBDOMAIN.workers.dev">
+<img src="https://img.shields.io/badge/💬_Chat_with_my_assistant-66BB6A?style=plastic&logoColor=white" />
+</a>
 
 <br/><br/>
 
