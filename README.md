@@ -1,5 +1,9 @@
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vit-cerny's GitHub profile" src="dark_mode.svg" />
+</picture>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:29B6F6,100:66BB6A&height=200&section=header&text=Vit%20Cerny&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20%C2%B7%20AI%20Agents%20%C2%B7%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1E88E5&center=true&vCenter=true&width=650&lines=Building+cerny-vit.space;Wiring+up+MCP+servers+%2B+AI+agents;Python+%2B+JavaScript+%2B+Claude+Code" alt="Typing SVG" />
