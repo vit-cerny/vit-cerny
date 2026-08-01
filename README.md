@@ -55,19 +55,18 @@
 
 ## 📊 GitHub Stats
 
-<!-- Self-hosted via GitHub Actions (see metrics.yml) — not dependent on any shared public server -->
 <div align="center">
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=vit-cerny&show_icons=true&bg_color=E3F2FD&title_color=1E88E5&icon_color=29B6F6&text_color=333333&hide_border=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=vit-cerny&hide_border=true&background=E3F2FD&stroke=1E88E5&ring=29B6F6&fire=66BB6A&currStreakLabel=1E88E5&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=777777" alt="GitHub Streak" />
+
 </div>
 
-<details>
-<summary>Streak counter (optional, third-party)</summary>
-
 <div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vit-cerny&hide_border=true&background=E3F2FD&stroke=1E88E5&ring=29B6F6&fire=66BB6A&currStreakLabel=1E88E5&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=777777" alt="GitHub Streak" />
-</div>
 
-</details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vit-cerny&layout=compact&bg_color=E3F2FD&title_color=1E88E5&text_color=333333&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ## 🏆 Trophies
 
@@ -81,16 +80,24 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vit-cerny&bg_color=E3F2FD&color=1E88E5&line=29B6F6&point=66BB6A&area=true&hide_border=true&title_color=1E88E5" alt="Activity Graph" width="100%" />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vit-cerny/vit-cerny/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vit-cerny/vit-cerny/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vit-cerny/vit-cerny/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:66BB6A,50:29B6F6,100:4FC3F7&height=4" width="100%"/>
 
 <div align="center">
 
 <a href="https://cerny-vit.space">
 <img src="https://img.shields.io/badge/🌐_Visit_my_site-29B6F6?style=plastic&logoColor=white" />
-</a>
-<!-- Replace the href below with your deployed workers.dev URL -->
-<a href="https://vit-cerny-chatbot.YOUR-SUBDOMAIN.workers.dev">
-<img src="https://img.shields.io/badge/💬_Chat_with_my_assistant-66BB6A?style=plastic&logoColor=white" />
 </a>
 
 <br/><br/>
